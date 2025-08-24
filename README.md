@@ -1,5 +1,3 @@
-**Here's a comprehensive `README.md` for your GitHub repository:**
-
 
 # 🏢 SmartZone - Intelligent People-Counting & Zone Management System
 
@@ -9,6 +7,10 @@
 ![Blynk](https://img.shields.io/badge/Cloud-Blynk-yellow.svg)
 
 An IoT-based automated system that monitors occupancy using IR sensors and controls appliances based on real-time people count. Perfect for smart classrooms, offices, and energy-efficient buildings.
+
+![WhatsApp Image 2025-08-24 at 22 43 30_c046023e](https://github.com/user-attachments/assets/7467d408-b95f-48c3-ba2c-b52ce6da57de)
+![WhatsApp Image 2025-08-24 at 22 43 30_8ea7a100](https://github.com/user-attachments/assets/9ecf8115-8811-4b38-8a98-32d979d8addb)
+
 
 ---
 
@@ -200,7 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-username/SmartZone/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/MaxonXOXO/our-smartzone/issues).
 
 ---
 
