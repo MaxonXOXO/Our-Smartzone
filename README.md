@@ -74,6 +74,11 @@ An IoT-based automated system that monitors occupancy using IR sensors and contr
 | D2 (SDA) | I2C LCD | I2C Data |
 
 ---
+## 🎃 Example Circuit from the code (Change accordingly)
+
+<img width="3380" height="2620" alt="circuit-diagram (10)" src="https://github.com/user-attachments/assets/9d8084e7-ba0d-4ae3-8cc8-02d9ecc6e7e8" />
+
+---
 
 ## 🚀 Installation & Setup
 
